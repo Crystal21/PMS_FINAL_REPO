@@ -101,7 +101,7 @@ description: contains field for assigning a student tpc  -->
 											<tr>
 
 												<td colspan="2"><center><input class="btn btn-sm  btn-primary"
--													type="submit" value="Submit" /></center></td>
+													type="submit" value="Submit" /></center></td>
 											</tr>
 										</table>
 									</form:form>
